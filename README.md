@@ -1,6 +1,6 @@
 # Python Inventory Checker Bot
 some very basic python web scraping program that checks the availability of items when given the URLs of items. 
-project was something to start learning webscraping with python and was something i did while i was bored and watching films so the program code is pretty messy.
+project was something to start learning webscraping with python and was something i did while i was bored and watching films so the program code is pretty messy and does not follow best practices.
 also made it to try get a new gpu, which was the main incentive.
 
 # How to use
