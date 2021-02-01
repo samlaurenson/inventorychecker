@@ -10,3 +10,6 @@ pychalk will not work in windows terminal - but VSC emulates a linux terminal so
 IMPORTANT -- as this was a 2 day kind of project - i have not implemented a method for this to work on all systems so if for some reason you want to use this then you will want to change the installation path of chromedriver in the files AmazonUK.py and Currys.py (if i ever decide to work on this again then i will try and change this, clean up the program and add more shops)
 
 :)
+
+# Example of Running Program
+![Example](https://cdn.discordapp.com/attachments/238732619234279424/793809878971187230/7ce0671c9f62a75b29980906acf1bd9e.png)
