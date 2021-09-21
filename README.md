@@ -3,10 +3,17 @@ some very basic python web scraping program that checks the availability of item
 project was something to start learning webscraping with python and was something i did while i was bored and watching films so the program code is pretty messy and does not follow best practices.
 also made it to try get a new gpu, which was the main incentive.
 
+-- Update -- I cleaned it up a little just in case some recruiter comes along and spots this mess then I won't be written off straight away. Not taking any chances.
+
+There is probably some better ways to do things and maybe if I get bored again I could come along and clean it up some more.
+
 # How to use
 best used in Visual Studio Code terminal or a linux terminal as i have used pychalk for the command line output in order to make the output look pretty.
 pychalk will not work in windows terminal - but VSC emulates a linux terminal so will work if executed VIA VSC. **File to execute will be InventCheck.py**.
 
-IMPORTANT -- as this was a 2 day kind of project - i have not implemented a method for this to work on all systems so if for some reason you want to use this then you will want to change the installation path of chromedriver in the files AmazonUK.py and Currys.py (if i ever decide to work on this again then i will try and change this, clean up the program and add more shops)
+Maybe i could make it run in a docker container instead
+<sup>That is if i decide to work on this again</sup>
+<sup><sub>maybe i will maybe i won't</sup></sub>
+<sup><sub><sup>who knows? it's up to your imagination</sup></sup></sub>
 
 :)

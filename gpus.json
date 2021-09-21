@@ -1,0 +1,154 @@
+{
+    "Amazon": {
+        "items": [
+            {
+                "company": "Asus",
+                "brand": "TUF",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HN37VQK"
+            },
+            {
+                "company": "Asus",
+                "brand": "TUF OC",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HN4DSTC"
+            },
+            {
+                "company": "Asus",
+                "brand": "Strix",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HN7VVLJ"
+            },
+            {
+                "company": "Asus",
+                "brand": "Strix OC",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HN6KYS3"
+            },
+            {
+                "company": "EVGA",
+                "brand": "FTW3",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HGBYWQ6"
+            },
+            {
+                "company": "EVGA",
+                "brand": "XC3",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HGBYWQ6"
+            },
+            {
+                "company": "EVGA",
+                "brand": "XC3 Black",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HH1BMQQ"
+            },
+            {
+                "company": "EVGA",
+                "brand": "XC3 Ultra",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HJ9XFNM"
+            },
+            {
+                "company": "Gigabyte",
+                "brand": "Aorus Master",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08KHLDS72"
+            },
+            {
+                "company": "Gigabyte",
+                "brand": "Eagle OC",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HHZVZ3N"
+            },
+            {
+                "company": "Gigabyte",
+                "brand": "Gaming OC",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HLZXHZY"
+            },
+            {
+                "company": "Gigabyte",
+                "brand": "Vision OC",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08KH7RL89"
+            },
+            {
+                "company": "MSI",
+                "brand": "Gaming x Trio",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HM4V2DH"
+            },
+            {
+                "company": "MSI",
+                "brand": "Ventus 3x OC",
+                "series": "3080",
+                "url": "https://www.amazon.co.uk/dp/B08HM4M621"
+            },
+            {
+                "company": "AmazonBasics",
+                "brand": "Double Braided Nylon",
+                "series": "USB",
+                "url": "https://www.amazon.co.uk/dp/B0753R2TWC"
+            }
+        ]
+    },
+    "Currys": {
+        "items":[
+            {
+                "company": "ASUS",
+                "brand": "TUF OC",
+                "series": "3080",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components-upgrades/graphics-cards/asus-geforce-rtx-3080-10-gb-tuf-gaming-oc-graphics-card-10214446-pdt.html"
+            },
+            {
+                "company": "MSI",
+                "brand": "Gaming x Trio",
+                "series": "3080",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components--upgrades/graphics-cards/msi-geforce-rtx-3080-10-gb-gaming-x-trio-graphics-card-10214425-pdt.html"
+            },
+            {
+                "company": "MSI",
+                "brand": "SUPRIM X",
+                "series": "3080",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components--upgrades/graphics-cards/msi-geforce-rtx-3080-10-gb-suprim-x-graphics-card-10219344-pdt.html"
+            },
+            {
+                "company": "MSI",
+                "brand": "VENTUS 3X OC",
+                "series": "3080",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components--upgrades/graphics-cards/msi-geforce-rtx-3080-10-gb-ventus-3x-oc-graphics-card-10214426-pdt.html"
+            },
+            {
+                "company": "Gigabyte",
+                "brand": "Eagle",
+                "series": "3080Ti",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components--upgrades/graphics-cards/gigabyte-geforce-rtx-3080-ti-12-gb-eagle-graphics-card-10225138-pdt.html"
+            },
+            {
+                "company": "ASUS",
+                "brand": "ROG Strix Gaming OC",
+                "series": "3080Ti",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components--upgrades/graphics-cards/asus-geforce-rtx-3080-ti-12-gb-rog-strix-gaming-oc-graphics-card-10225977-pdt.html"
+            },
+            {
+                "company": "ASUS",
+                "brand": "ROG Strix V2 LHR (white)",
+                "series": "3080",
+                "url": "https://www.currys.co.uk/gbuk/computing-accessories/components--upgrades/graphics-cards/asus-geforce-rtx-3080-10-gb-rog-strix-v2-lhr-graphics-card-white-10230183-pdt.html"
+            },
+            {
+                "company": "CANON",
+                "brand": "EOS DSLR Camera",
+                "series": "2000D",
+                "url": "https://www.currys.co.uk/gbuk/cameras-and-camcorders/digital-cameras/dslr-and-compact-system-cameras/canon-eos-2000d-dslr-camera-with-ef-s-18-55-mm-f-3-5-5-6-iii-ef-75-300-mm-f-4-5-6-iii-lens-10204844-pdt.html"
+            },
+            {
+                "company": "LENOVO",
+                "brand": "IdeaPad Chromebook",
+                "series": "Flex 5i",
+                "url": "https://www.currys.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-flex-5i-13-3-2-in-1-chromebook-intel-core-i5-128-gb-ssd-grey-10207518-pdt.html"
+            }
+        ]
+    }
+}
