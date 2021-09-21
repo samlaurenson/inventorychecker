@@ -8,8 +8,6 @@ also made it to try get a new gpu, which was the main incentive.
 <sup><sub><sup>i think</sup></sup></sub>\
 <sup><sub><sup><sub>i can get better</sup></sub></sup></sub>
 
-There are probably some better ways to do things and maybe if I get bored again I could come along and clean it up some more.
-
 # How to use
 best used in Visual Studio Code terminal or a linux terminal as i have used pychalk for the command line output in order to make the output look pretty.
 pychalk will not work in windows terminal - but VSC emulates a linux terminal so will work if executed VIA VSC. **File to execute will be InventCheck.py**.
