@@ -17,3 +17,6 @@ Maybe i could make it run in a docker container instead
 <sup><sub><sup>who knows? it's up to your imagination</sup></sup></sub>
 
 :)
+
+# Example of Running Program
+![Example](https://cdn.discordapp.com/attachments/238732619234279424/793809878971187230/7ce0671c9f62a75b29980906acf1bd9e.png)
