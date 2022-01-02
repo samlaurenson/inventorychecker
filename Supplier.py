@@ -120,9 +120,9 @@ class Amazon(Shop):
                 if availability.text != self.labels.inStock:
                     sentence += chalk.red("Out of Stock")
                 else:
-                    price = driver.find_element_by_id('priceblock_ourprice')
+                    price = driver.find_element_by_id('corePrice_feature_div')
                     sentence += chalk.green("In Stock")
-                    sentence += " (" + price.text + ") ::: [LINK]: " + chalk.cyan(url)
+                    sentence += " (" + price.text.strip() + ") ::: [LINK]: " + chalk.cyan(url)
 
             except NoSuchElementException:
                 sentence += chalk.bold(chalk.red("Error finding item deatils"))
@@ -135,4 +135,4 @@ class Amazon(Shop):
 
 #EACH USER NEEDS TO REPLACE THIS WITH THEIR OWN DIRECTORY TO CHROMEDRIVER
 # https://chromedriver.chromium.org/downloads
-CHROMEPATH = ".\93\chromedriver"
+CHROMEPATH = ".\96\chromedriver"

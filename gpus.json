@@ -88,8 +88,14 @@
             {
                 "company": "AmazonBasics",
                 "brand": "Double Braided Nylon",
-                "series": "USB",
-                "url": "https://www.amazon.co.uk/dp/B0753R2TWC"
+                "series": "USB A",
+                "url": "https://www.amazon.co.uk/dp/B082T6GXSM"
+            },
+            {
+                "company": "Talking Heads",
+                "brand": "Remain in Light",
+                "series": "Vinyl",
+                "url": "https://www.amazon.co.uk/dp/B000H8RVUW"
             }
         ]
     },
@@ -140,14 +146,14 @@
             {
                 "company": "CANON",
                 "brand": "EOS DSLR Camera",
-                "series": "2000D",
-                "url": "https://www.currys.co.uk/gbuk/cameras-and-camcorders/digital-cameras/dslr-and-compact-system-cameras/canon-eos-2000d-dslr-camera-with-ef-s-18-55-mm-f-3-5-5-6-iii-ef-75-300-mm-f-4-5-6-iii-lens-10204844-pdt.html"
+                "series": "250D",
+                "url": "https://www.currys.co.uk/gbuk/cameras-and-camcorders/digital-cameras/dslr-and-compact-system-cameras/canon-eos-250d-dslr-camera-with-ef-s-18-55-mm-f-3-5-5-6-iii-lens-10192409-pdt.html"
             },
             {
-                "company": "LENOVO",
-                "brand": "IdeaPad Chromebook",
-                "series": "Flex 5i",
-                "url": "https://www.currys.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-flex-5i-13-3-2-in-1-chromebook-intel-core-i5-128-gb-ssd-grey-10207518-pdt.html"
+                "company": "HP",
+                "brand": "Pavilion",
+                "series": "14-dv1629sa 14 Laptop",
+                "url": "https://www.currys.co.uk/gbuk/computing/laptops/laptops/hp-pavilion-14-dv1629sa-14-laptop-intel-core-i5-512-gb-ssd-silver-10229553-pdt.html"
             }
         ]
     }
