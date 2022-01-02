@@ -3,18 +3,14 @@ some very basic python web scraping program that checks the availability of item
 project was something to start learning webscraping with python and was something i did while i was bored and watching films so the program code is pretty messy and does not follow best practices.
 also made it to try get a new gpu, which was the main incentive.
 
--- Update -- I cleaned it up a little just in case some recruiter comes along and spots this mess then I won't be written off straight away. Not taking any chances.
-
-There is probably some better ways to do things and maybe if I get bored again I could come along and clean it up some more.
+-- Update -- I cleaned it up a little just in case some recruiter comes along and spots this mess then I won't be written off straight away. Not taking any chances.</br> <sup><sub>Please hire me</sup></sub>\
+<sup><sub>i promise i'm better than this</sup></sub>\
+<sup><sub><sup>i think</sup></sup></sub>\
+<sup><sub><sup><sub>i can get better</sup></sub></sup></sub>
 
 # How to use
-best used in Visual Studio Code terminal or a linux terminal as i have used pychalk for the command line output in order to make the output look pretty.
-pychalk will not work in windows terminal - but VSC emulates a linux terminal so will work if executed VIA VSC. **File to execute will be InventCheck.py**.
-
-Maybe i could make it run in a docker container instead
-<sup>That is if i decide to work on this again</sup>
-<sup><sub>maybe i will maybe i won't</sup></sub>
-<sup><sub><sup>who knows? it's up to your imagination</sup></sup></sub>
+**File to execute will be InventCheck.py** <br>
+Best either executing in VSC terminal or using the Windows Terminal so that pychalk colours will work and make the output readable.
 
 :)
 
