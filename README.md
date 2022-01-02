@@ -9,12 +9,8 @@ also made it to try get a new gpu, which was the main incentive.
 <sup><sub><sup><sub>i can get better</sup></sub></sup></sub>
 
 # How to use
-best used in Visual Studio Code terminal or a linux terminal as i have used pychalk for the command line output in order to make the output look pretty.
-pychalk will not work in windows terminal - but VSC emulates a linux terminal so will work if executed VIA VSC. **File to execute will be InventCheck.py**.
-
-Maybe i could make it run in a docker container instead if i decide to work on this again so that you don't need to execute VIA vsc.
-Maybe i will, maybe i won't.
-No promises.
+**File to execute will be InventCheck.py** <br>
+Best either executing in VSC terminal or using the Windows Terminal so that pychalk colours will work and make the output readable.
 
 :)
 
